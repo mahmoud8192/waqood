@@ -11,4 +11,7 @@ This project is a frontend implementation using HTML, CSS, and JavaScript with a
 - JavaScript (ES6+)
 - Responsive Design (Mobile-first)
 
+## Preview
+
+- Demo link: https://mahmoud8192.github.io/waqood/
 
